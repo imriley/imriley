@@ -4,7 +4,7 @@
 
 # 👋 Your Friendly Neighborhood Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=45B7D1&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I'm+Vishant!;Web+%26+Flutter+Developer;UX+Design+Enthusiast;Creative+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=5865F2&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I'm+Vishant!;Web+%26+Flutter+Developer;UX+Design+Enthusiast;Creative+Problem+Solver)](https://git.io/typing-svg)
 
 ### 🎯 Crafting Digital Experiences That Matter
 
