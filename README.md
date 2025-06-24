@@ -84,11 +84,11 @@ I'm a passionate **Web & Flutter Developer** who believes in creating applicatio
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imriley&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imriley&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imriley&theme=dracula&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=imriley&theme=midnight-purple&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imriley&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imriley&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
