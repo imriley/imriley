@@ -4,18 +4,26 @@
 
 # 👋 Your Friendly Neighborhood Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=5865F2&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I'm+Vishant!;Web+%26+Flutter+Developer;UX+Design+Enthusiast;Creative+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=5865F2&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Vishant!;Web+%26+Flutter+Developer;UX+Design+Enthusiast;Creative+Problem+Solver)](https://git.io/typing-svg)
 
 ### 🎯 Crafting Digital Experiences That Matter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imvishant)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/imvishant)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/imvishant)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://in.pinterest.com/vishhh0320/)
-
+<div align="center">
+  <a href="https://linkedin.com/in/imvishant">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.behance.net/imvishant">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://dribbble.com/imvishant">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
+  </a>
+  <a href="https://in.pinterest.com/vishhh0320/">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
+  </a>
 </div>
 
----
+</div>
 
 ## 🌟 About Me
 
@@ -30,17 +38,17 @@ I'm a passionate **Web & Flutter Developer** who believes in creating applicatio
 - 🧠 **Problem Solver**: Turning complex challenges into elegant solutions
 - 🤝 **Collaborative Spirit**: Thriving in teams that push boundaries
 
----
-
 ## 🎨 **Fun Facts About Me:**
 - 🎵 **Music Lover**: Code with lo-fi beats in the background
 - ☕ **Coffee Enthusiast**: Fueled by caffeine and creativity
 - 🌙 **Night Owl**: Most productive during late-night coding sessions
 - 🎮 **Gamer**: Believe gaming UI/UX has influenced my design thinking
 
----
-
 ## 🛠️ Tech Arsenal
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=5865F2&center=true&vCenter=true&width=600&height=30&lines=My+Tech+Stack+%26+Tools;Always+Learning+New+Technologies;Building+With+Modern+Tools;Full-Stack+Development+Expertise" alt="Tech Stack Animation" />
+</div>
 
 ### 💻 **Programming Languages**
 
@@ -81,17 +89,21 @@ I'm a passionate **Web & Flutter Developer** who believes in creating applicatio
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 
----
-
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imriley&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imriley&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=imriley&theme=midnight-purple&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imriley&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imriley&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imriley&theme=midnight-purple&hide_border=false)
 
----
+
+
+## 📈 **GitHub Activity Graph**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imriley&theme=midnight-purple&hide_border=false&area=true&point=5865F2&line=5865F2&color=5865F2&title_color=5865F2&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&hide_title=false&radius=8&stroke=5865F2&stroke_width=2" alt="GitHub Activity Graph" />
+</div>
+
 
 ## 🎯 Current Focus
 
@@ -99,6 +111,8 @@ I'm a passionate **Web & Flutter Developer** who believes in creating applicatio
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=imriley&icon=0&color=0)](https://visitcount.itsvg.in)
-
 *"The best code is the code that makes someone's life better."* ✨
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=100&section=footer" alt="Footer Wave" />
+</div>
