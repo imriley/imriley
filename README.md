@@ -70,6 +70,7 @@ I'm a passionate **Web & Flutter Developer** who believes in creating applicatio
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -94,8 +95,7 @@ I'm a passionate **Web & Flutter Developer** who believes in creating applicatio
 
 ## 🎯 Current Focus
 
-![Currently Learning](https://img.shields.io/badge/Currently_Learning-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Currently Learning](https://img.shields.io/badge/Currently_Learning-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Currently Learning](https://img.shields.io/badge/Currently_Learning-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
