@@ -27,11 +27,12 @@
 
 ## 🌟 About Me
 
-> *"Code is poetry, design is art, and user experience is the symphony that brings them together."*
+> _"Code is poetry, design is art, and user experience is the symphony that brings them together."_
 
 I'm a passionate **Web & Flutter Developer** who believes in creating applications that don't just work—they **delight**. My journey is driven by the intersection of technology and human-centered design.
 
 ### ✨ What I Bring to the Table:
+
 - 🎨 **UX-First Approach**: Every pixel and interaction is crafted with purpose
 - ♿️ **Accessibility Champion**: Making the digital world inclusive for everyone
 - 🚀 **Performance Optimizer**: Because speed matters as much as beauty
@@ -39,6 +40,7 @@ I'm a passionate **Web & Flutter Developer** who believes in creating applicatio
 - 🤝 **Collaborative Spirit**: Thriving in teams that push boundaries
 
 ## 🎨 **Fun Facts About Me:**
+
 - 🎵 **Music Lover**: Code with lo-fi beats in the background
 - ☕ **Coffee Enthusiast**: Fueled by caffeine and creativity
 - 🌙 **Night Owl**: Most productive during late-night coding sessions
@@ -95,15 +97,11 @@ I'm a passionate **Web & Flutter Developer** who believes in creating applicatio
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imriley&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imriley&theme=midnight-purple&hide_border=false)
-
-
-
 ## 📈 **GitHub Activity Graph**
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imriley&theme=midnight-purple&hide_border=false&area=true&point=5865F2&line=5865F2&color=5865F2&title_color=5865F2&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&hide_title=false&radius=8&stroke=5865F2&stroke_width=2" alt="GitHub Activity Graph" />
 </div>
-
 
 ## 🎯 Current Focus
 
@@ -111,7 +109,7 @@ I'm a passionate **Web & Flutter Developer** who believes in creating applicatio
 
 ---
 
-*"The best code is the code that makes someone's life better."* ✨
+_"The best code is the code that makes someone's life better."_ ✨
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=100&section=footer" alt="Footer Wave" />
