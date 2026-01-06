@@ -23,6 +23,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=imriley&color=5865F2&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
+
 </div>
 
 ## 🌟 About Me
@@ -93,9 +97,9 @@ I'm a passionate **Web & Flutter Developer** who believes in creating applicatio
 
 ## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imriley&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6)
+![GitHub Stats](https://github-readme-stats-beryl-delta.vercel.app/api?username=imriley&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&icon_color=5865F2&title_color=5865F2&text_color=ffffff&bg_color=0D1117&ring_color=5865F2&border_color=5865F2)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imriley&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
+![Top Languages](https://github-readme-stats-beryl-delta.vercel.app/api/top-langs/?username=imriley&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8&exclude_repo=&card_width=500)
 
 ## 📈 **GitHub Activity Graph**
 
